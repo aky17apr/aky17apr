@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aky17apr&show_icons=true&locale=en&layout=compact" alt="aky17apr" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://blog.roberthallam.org/wp-content/uploads/2022/09/loading-win98-transparent.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8q7fkBMRRtcben2ley6mu11U3sm155cX9vw&usqp=CAU">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aky17apr&show_icons=true&locale=en" alt="aky17apr" /></p>
 
