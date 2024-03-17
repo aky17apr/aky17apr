@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aky17apr" alt="aky17apr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/why_so_sad" target="blank"><img src="https://img.shields.io/twitter/follow/why_so_sad?logo=twitter&style=for-the-badge" alt="why_so_sad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/why__so__sad" target="blank"><img src="https://img.shields.io/twitter/follow/why_so_sad?logo=twitter&style=for-the-badge" alt="why_so_sad" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
