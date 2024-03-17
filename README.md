@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aky17apr&show_icons=true&locale=en&layout=compact" alt="aky17apr" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmC5OFRZ7YwgqwPmNfePrbG0kbnuNyROUKyndQ9rMx1IfOPQoHgUndrNJw3F8VFWhB_c&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/214671270/23f88b80-ed18-11e9-8a21-0a636b193f08">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aky17apr&show_icons=true&locale=en" alt="aky17apr" /></p>
 
